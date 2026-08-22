@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "You only have weeks left to vibe code",
+    "category": "Programing",
+    "host": "NotebookLLM",
+    "description": "For a while vibe coding was promoted as the future of products. That future supposedly belonged to the idea people. Not the “boring” coders. The visionaries.",
+    "image": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*zKR3rUwFqBImPUfH9OdFAw.png",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "duration": "32:45",
+    "date": "22.08.2026",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Büyük Dil Modelleri ve Kod Asistanlarının Evrimi",
+    "category": "Yapay Zeka",
+    "host": "Arda Tekin",
+    "description": "Agentic AI ve otonom yazılım ajanları kodlama pratiklerimizi nasıl kökten değiştiriyor? Prompt mühendisliğinden otonom refactor ve hata ayıklama süreçlerine derin bir bakış.",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "duration": "28:10",
+    "date": "20.08.2026",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Modern Web Performansı: Core Web Vitals ve Sıfır Gecikme",
+    "category": "Web Geliştirme",
+    "host": "Merve Çelik",
+    "description": "LCP, INP ve CLS metriklerini optimize ederek milisaniyeler seviyesinde yüklenen SPA mimarileri kurgulama rehberi. DOM yönetimi, CSS animasyon performansı ve Web Workers.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "duration": "41:20",
+    "date": "18.08.2026",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Siber Güvenlikte Yeni Cephe: Kuantum Sonrası Kriptografi",
+    "category": "Siber Güvenlik",
+    "host": "Burak Özkan & Ece Kaya",
+    "description": "Kuantum bilgisayarların mevcut şifreleme protokollerini tehdit ettiği bir gelecekte verilerimizi nasıl koruyacağız? Post-Quantum Cryptography (PQC) standartları masada.",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "duration": "24:15",
+    "date": "15.08.2026",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Yazılım Mimarisinde Mikro Ön Uçlar (Micro-Frontends)",
+    "category": "Yazılım",
+    "host": "Emre Akın",
+    "description": "Monolitik ön uç uygulamalarını modüler, bağımsız dağıtılabilir parçalara ayırmanın avantajları, zorlukları ve Module Federation ile gerçek dünya vaka analizleri.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "duration": "36:50",
+    "date": "12.08.2026",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Akıllı Şehirler, IoT ve Edge Computing",
+    "category": "Teknoloji",
+    "host": "Deniz Yaman",
+    "description": "Milyarlarca uç cihazın veriyi yerel olarak işlediği akıllı şehir ekosistemlerinde gecikmesiz kararlar nasıl alınıyor? 5G ve 6G entegrasyonuna bakış.",
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "duration": "29:05",
+    "date": "09.08.2026",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Minimalizm ve Dijital Detoks: Odaklanma Sanatı",
+    "category": "Yaşam & Teknoloji",
+    "host": "Zeynep Uçar",
+    "description": "Sürekli bildirim bombardımanı altında derin çalışma (Deep Work) alışkanlığı kazanmak ve üretkenliği sürdürülebilir kılmak üzerine pratik ipuçları.",
+    "image": "https://images.unsplash.com/photo-1507842229451-7f01be7f70d2?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "duration": "21:30",
+    "date": "05.08.2026",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Ses Teknolojileri ve Uzamsal Ses (Spatial Audio) Devrimi",
+    "category": "Tasarım",
+    "host": "Kaan Erdem",
+    "description": "Stereo ses dünyasından üç boyutlu uzamsal ses deneyimine geçiş; podcast dinleme alışkanlıklarını ve interaktif medya yapımlarını nasıl dönüştürüyor?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "duration": "35:12",
+    "date": "01.08.2026",
+    "featured": false
+  }
+]
