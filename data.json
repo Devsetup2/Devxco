@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "You Only Have Weeks Left to Vibe Code",
+    "title": "Mobile app in 1 week with Vibe Code",
     "category": "Programming",
     "host": "NotebookLM & Alex Rivera",
     "description": "For a while vibe coding was promoted as the future of products. That future supposedly belonged to the idea people, not the 'boring' coders. How LLMs and autonomous agents are reshaping real-world software development.",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "image": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*zKR3rUwFqBImPUfH9OdFAw.png",
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
     "duration": "32:45",
     "date": "22.08.2026",
